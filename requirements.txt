@@ -7,3 +7,4 @@ pyreadr
 seaborn
 session-info
 upsetplot==0.6.1
+wget
